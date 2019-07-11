@@ -2,7 +2,7 @@
     Xilinx XC3S500E Spartan 3E FPGA
     Micron M25P40 4Mb SPI Flash configuration memory to store FPGA bit file
     256Mb Synchronous High-Speed CMOS DRAM MT48LC16M16A2P-7E, 16Mb x 16Bit x 4 Banks
-    ATmega328 8-bit AVR Microcontroller
+    ATmega328 8-bit 8Mhz AVR Microcontroller
     ADC TI-ADS5522 12 bits / 80 Mhz with SMA conn. input
     DAC Analog Devices AD9764 TxDAC 14 bits / 125 Mhz with SMA conn. output
     50 MHz crystal oscillator and 125 Mhz crystal oscillator
