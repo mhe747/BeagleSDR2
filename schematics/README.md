@@ -14,4 +14,4 @@
     3.3V I2C port for off-board serial expansion.
     JTAG port for FPGA development and debugging
     Diagnostic LEDs (2 User defined, 2 Configuration status, 1 live led)
-    Powered by DC 5V / 3.3V / 1.8V
+    Powered by DC 5V (voltage source level) / 3.3V (all devices io level) / 1.8V (beagleboard-xm signal level)
